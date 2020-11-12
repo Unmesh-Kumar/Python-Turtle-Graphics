@@ -1,2 +1,2 @@
 # Python-Turtle-Graphics
-Contains code of the patterns I drew using Python Turtle graphics
+Contains Patterns with their code that I drew using Python Turtle graphics
